@@ -1,5 +1,5 @@
 #Create MySQL Image for JSP Tutorial Application
-FROM mysql
+FROM mysql:5.7
 MAINTAINER jojozhuang@gmail.com
 
 ENV MYSQL_ROOT_PASSWORD gspassword
