@@ -23,7 +23,7 @@ git clone https://github.com/jojozhuang/game-store-mysql.git
 Open the project in Eclipse, compile and run.
 
 # Portfolio
-Read portfolio [Online Game Store(JSP)](https://jojozhuang.github.io/portfolio/game-store-jsp/) to learn the main functions of this eCommerce web store.
+Read portfolio [Online Game Store(JSP)](https://jojozhuang.github.io/project/game-store-jsp) to learn the main functions of this eCommerce web store.
 
 # Tutorial
 Read tutorial [Creating MySQL Container with Docker File for Game Store App](https://jojozhuang.github.io/programming/creating-mysql-container-with-docker-file-for-game-store-app) to learn how to use Docker to host MySQL database for this JSP application.
